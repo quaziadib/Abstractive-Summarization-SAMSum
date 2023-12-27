@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Abstractive-Summarization-SAMSum"
 AUTHOR_USER_NAME = "quazi_adib"
-SRC_REPO = "AbstractSummarizer"
+SRC_REPO = "abstractSummarizer"
 AUTHOR_EMAIL = "quazi_adib@gmail.com"
 
 
